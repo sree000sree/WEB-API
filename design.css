@@ -1,0 +1,38 @@
+#city{
+    height:30px;
+    width:250px;
+}
+h3{
+    color:white;
+}
+body{
+    background-color:beige;
+}
+#btn{
+    color:white;
+    display:inline-block;
+    background-color:green;
+    
+}
+h2{
+    color:aqua;
+}
+#output{
+    color:goldenrod;
+    font-size:20px;
+    font-family:Arial;
+}
+#max{
+    color:cyan;
+    font-size:20px;
+    font-family:Arial;
+}
+#min{
+    color:steelblue;
+    font-size:20px;
+    font-family:Arial;
+}
+body{
+    background-image:url("https://cdn.nimbusthemes.com/2017/09/09233338/Free-Nature-Backgrounds-Sunset-by-Pixabay.jpg");
+    
+}
